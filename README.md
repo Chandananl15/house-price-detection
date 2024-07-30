@@ -5,7 +5,11 @@ The project is implemented using the California Housing dataset to train a regre
 depending on numerous features.
 
 Requirements:
+
 numpy
+
 pandas
+
 scikit-learn
+
 tensorflow
